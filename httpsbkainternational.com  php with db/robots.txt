@@ -1,0 +1,7 @@
+sitemap: https://bkainternational.com/sitemap.xml
+
+User-agent: *
+Allow: /
+
+User-agent: HTTrack
+Disallow: /
